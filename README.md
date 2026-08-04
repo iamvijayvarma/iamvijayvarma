@@ -139,146 +139,237 @@ My goal is to contribute to impactful products, collaborate with talented develo
 
 </div>
 
----<!-- ========================================================= -->
-<!--                    VIJAY VARMA - README                    -->
-<!--                     Aurora Theme v1.0                     -->
-<!-- ========================================================= -->
+------
+
+# 🚀 Featured Projects
+
+<details open>
+<summary>
+
+## 🧠 PROFILEMIND
+
+### AI-Powered Career Intelligence Platform
+
+</summary>
+
+### 📖 Overview
+
+PROFILEMIND is an intelligent career development platform designed to help users strengthen their professional profiles using Artificial Intelligence. It analyzes profile information, provides personalized recommendations, and assists users in improving their resumes, skills, and career readiness through AI-driven insights.
+
+| Category | Details |
+|-----------|----------|
+| Domain | Artificial Intelligence |
+| Architecture | Full Stack Web Application |
+| AI Features | OpenAI API, Prompt Engineering |
+| Backend | Node.js |
+| Database | Firebase |
+| Focus | Career Intelligence |
+| Status | Active Development |
+
+### Key Features
+
+- AI-powered profile analysis
+- Intelligent resume enhancement
+- Personalized career recommendations
+- Smart skill-gap identification
+- User-friendly dashboard
+- Secure cloud-based data storage
+
+### Engineering Highlights
+
+- Modular backend architecture
+- Scalable Firebase integration
+- Optimized API interactions
+- Responsive user interface
+- Clean and maintainable codebase
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## ⚡ COMPASS — EV Charging Mobile Application
+
+### Smart Electric Vehicle Charging Solution
+
+</summary>
+
+### 📖 Overview
+
+COMPASS is a mobile-first application developed to simplify the electric vehicle charging experience. The application helps users discover charging stations, optimize travel routes, and improve accessibility to EV infrastructure.
+
+| Category | Details |
+|-----------|----------|
+| Domain | Smart Mobility |
+| Platform | Mobile Application |
+| Backend | Node.js |
+| Database | Firebase |
+| Focus | EV Infrastructure |
+| Status | Prototype |
+
+### Key Features
+
+- Nearby charging station discovery
+- Route optimization
+- Charging availability information
+- User-friendly interface
+- Real-time accessibility planning
+
+### Engineering Highlights
+
+- Mobile-first architecture
+- Cloud-connected backend
+- Optimized user experience
+- Scalable application design
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🤖 AI Virtual Lab
+
+### Intelligent Learning Environment
+
+</summary>
+
+### 📖 Overview
+
+AI Virtual Lab is an educational platform that leverages Artificial Intelligence to provide an interactive learning experience. The platform enables students to explore concepts through AI-assisted guidance and intelligent content generation.
+
+| Category | Details |
+|-----------|----------|
+| Domain | EdTech + AI |
+| AI | OpenAI API |
+| Backend | Node.js |
+| Database | Firebase |
+| Focus | Interactive Learning |
+| Status | In Progress |
+
+### Key Features
+
+- AI-powered learning assistant
+- Intelligent question answering
+- Interactive learning modules
+- Personalized educational support
+- Modern responsive interface
+
+### Engineering Highlights
+
+- OpenAI integration
+- Prompt engineering workflow
+- Cloud-based architecture
+- Modular backend services
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🧠 Agentic AI Attendance Monitoring System
+
+### Autonomous Attendance Intelligence
+
+</summary>
+
+### 📖 Overview
+
+An intelligent attendance monitoring platform utilizing Agentic AI concepts to automate attendance tracking, monitoring, and reporting. The system minimizes manual effort while improving operational efficiency through AI-driven automation.
+
+| Category | Details |
+|-----------|----------|
+| Domain | Artificial Intelligence |
+| AI | Agentic AI |
+| Backend | Node.js |
+| Database | Firebase |
+| Focus | Smart Automation |
+| Status | Research & Development |
+
+### Key Features
+
+- Intelligent attendance tracking
+- Automated reporting
+- AI-assisted monitoring
+- Secure data management
+- Scalable architecture
+
+### Engineering Highlights
+
+- AI workflow automation
+- Intelligent decision support
+- Cloud integration
+- High-performance backend
+
+</details>
+
+---
+
+# 💼 Experience
+
+## 📡 Telecom Engineer Intern
+
+**BSNL — Salem**
+
+**Internship**
+
+### Responsibilities
+
+- Studied telecommunication infrastructure and network architecture.
+- Observed real-world communication systems and telecom operations.
+- Learned signal transmission concepts and networking fundamentals.
+- Gained practical exposure to industry-standard telecommunication technologies.
+- Enhanced analytical and problem-solving abilities through practical observation.
+
+### Skills Applied
+
+`Telecommunication`
+`Networking`
+`Signal Processing`
+`Communication Systems`
+
+---
+
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,20:1E3A8A,50:0891B2,80:10B981,100:0F172A&text=VIJAY%20VARMA&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Learner&descAlignY=60&animation=fadeIn"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer;Building+Intelligent+Applications;Node.js+%7C+Java+%7C+Python;OpenAI+API+Developer;Always+Learning+Something+New"/>
-
-<br><br>
-
-<a href="mailto:vvarmavijay18@gmail.com">
-<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/vijay-varma-07b857339">
-<img src="https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/iamvijayvarma">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=iamvijayvarma&label=Profile+Views&color=0891b2&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/iamvijayvarma?style=for-the-badge&color=10B981"/>
-
-<img src="https://img.shields.io/github/stars/iamvijayvarma?affiliations=OWNER&style=for-the-badge&color=1D4ED8"/>
+| Recognition | Details |
+|--------------|----------|
+| 🥉 LIRO Competition | Secured **3rd Prize** at VSB Engineering College |
+| 🥈 LIRO Competition | Secured **2nd Prize** at Adithya College |
+| 🚀 AI Development | Built multiple AI-powered academic and personal projects |
+| 💻 Continuous Learning | Actively exploring Artificial Intelligence and Full Stack Development |
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> About Me
-
-```yaml
-Name          : Vijay Varma V
-Role          : AI Engineer
-Education     : B.E. Electronics & Communication Engineering
-College       : VSB Engineering College
-Graduation    : 2028
-Location      : Tamil Nadu, India
-
-Interested In :
-  - Artificial Intelligence
-  - Full Stack Development
-  - Intelligent Automation
-  - Agentic AI
-  - Open Source
-
-Currently :
-  - Building AI Powered Applications
-  - Learning Modern Backend Development
-  - Exploring Large Language Models
-  - Improving Problem Solving Skills
-
-Open To :
-  - AI Internships
-  - Software Engineering Internships
-  - Open Source Collaboration
-  - Freelance Opportunities
-```
-
----
-
-# 🚀 Professional Summary
-
-I am an aspiring **AI Engineer** with a strong passion for building intelligent software that solves real-world problems. My interests span **Artificial Intelligence**, **Full Stack Development**, **Backend Engineering**, and **Generative AI**.
-
-I enjoy transforming ideas into practical products by combining modern web technologies with AI capabilities. I continuously explore new tools, frameworks, and engineering practices while focusing on writing clean, scalable, and maintainable code.
-
-My goal is to contribute to impactful products, collaborate with talented developers, and grow into an engineer capable of building reliable AI-driven systems at scale.
-
----
-
-# ⚙️ Tech Stack
-
-## Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,html"/>
-
-</p>
-
----
-
-## Backend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-</p>
-
----
-
-## Database & Cloud
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-</p>
-
----
-
-## Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,vscode"/>
-
-</p>
-
----
-
-# 🤖 AI Expertise
-
-| Domain | Level | Description |
-|---------|-------|-------------|
-| Prompt Engineering | ⭐⭐⭐⭐⭐ | Designing effective prompts for LLM-based applications |
-| OpenAI API | ⭐⭐⭐⭐☆ | Developing AI-powered applications using OpenAI APIs |
-| Agentic AI | ⭐⭐⭐⭐☆ | Building autonomous AI workflows and intelligent assistants |
-| Generative AI | ⭐⭐⭐⭐☆ | Exploring LLM-powered products and automation |
-| AI Application Development | ⭐⭐⭐⭐☆ | Integrating AI into scalable software solutions |
-
----
+# 📜 Certifications
 
 <div align="center">
 
-### 💡 Engineering Philosophy
+<img src="https://img.shields.io/badge/Python-Foundation%20Certification-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-> **"Build products that solve real problems, automate intelligently, and create meaningful impact through technology."**
+<img src="https://img.shields.io/badge/Learning-Artificial%20Intelligence-0891B2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI-API%20Development-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
+
+---
+
+# 🎯 Career Vision
+
+> I aspire to become a highly skilled AI Engineer focused on building intelligent, scalable, and impactful software solutions. My mission is to combine Artificial Intelligence with modern software engineering practices to create innovative products that solve meaningful real-world problems.
 
 ------
 
